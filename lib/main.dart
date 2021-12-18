@@ -6,9 +6,11 @@ import 'package:get_length/services/youtube_repo.dart';
 import 'presentation/screens/home_screen.dart';
 
 void main() {
-  runApp(MyApp(
-    youtubeRepo: YoutubeRepo(),
-  ));
+  runApp(
+    MyApp(
+      youtubeRepo: YoutubeRepo(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
