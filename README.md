@@ -1,16 +1,12 @@
-# get_length
+# Get Youtube Playlist Length
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Have you ever asked yourself how total duration of youtube playlist will take amount of time to watch it ?
+### This is right place to get our app small app calc the total time and time in different speed
+<img src="https://user-images.githubusercontent.com/70527079/146687190-6f8904fd-727a-4567-81fd-79d6759e2f86.png" width="250" style ="display: inline;">
+<img src="https://user-images.githubusercontent.com/70527079/146687197-d135e1bf-99e1-4952-af4c-eb936eca469e.png" width="250" style ="display: inline;">
+<img src="https://user-images.githubusercontent.com/70527079/146687202-c79b0c33-45b5-4c38-bfd4-d2df0c4c8fed.png" width="250">
+<img src="https://user-images.githubusercontent.com/70527079/146687205-14ec6486-788f-4e66-a094-5183112c4997.png" width="250">
