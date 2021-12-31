@@ -75,7 +75,6 @@ class PlayListLoadedWidget extends StatelessWidget {
             ),
           ],
         ),
-        VideoCardListViewWidget(playlist: playlist),
       ],
     );
   }
